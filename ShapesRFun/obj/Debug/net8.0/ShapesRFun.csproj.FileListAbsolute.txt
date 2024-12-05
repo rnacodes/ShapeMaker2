@@ -1,0 +1,14 @@
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\ShapesRFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\ShapesRFun.AssemblyInfoInputs.cache
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\ShapesRFun.AssemblyInfo.cs
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\ShapesRFun.csproj.CoreCompileInputs.cache
+C:\Users\rasante\source\repos\ShapesRFun\bin\Debug\net8.0\ShapesRFun.exe
+C:\Users\rasante\source\repos\ShapesRFun\bin\Debug\net8.0\ShapesRFun.deps.json
+C:\Users\rasante\source\repos\ShapesRFun\bin\Debug\net8.0\ShapesRFun.runtimeconfig.json
+C:\Users\rasante\source\repos\ShapesRFun\bin\Debug\net8.0\ShapesRFun.dll
+C:\Users\rasante\source\repos\ShapesRFun\bin\Debug\net8.0\ShapesRFun.pdb
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\ShapesRFun.dll
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\refint\ShapesRFun.dll
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\ShapesRFun.pdb
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\ShapesRFun.genruntimeconfig.cache
+C:\Users\rasante\source\repos\ShapesRFun\obj\Debug\net8.0\ref\ShapesRFun.dll
